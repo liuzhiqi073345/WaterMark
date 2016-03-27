@@ -10,6 +10,7 @@ import java.io.IOException;
  * @author 代码来自网上
  *
  */
+
 public class BMPLoader
 
 {
